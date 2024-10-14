@@ -6,8 +6,8 @@ Atualmente, estou trabalhando na construção do meu website pessoal. Em breve, 
 
 ## O que esperar?
 
-- Informações sobre mim e meus projetos
-- Blog com artigos sobre tecnologia e programação
+- Informações sobre mim
+- Portifólio projetos
 - Contato e redes sociais
 
 Fique de olho, logo terei novidades!
